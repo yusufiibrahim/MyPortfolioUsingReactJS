@@ -96,6 +96,8 @@ const about = () => {
           </Row>
         </Container>
       </div>
+      <br />
+      <br />
     </div>
   );
 };

@@ -8,6 +8,7 @@ import MyNavbar from "./components/myNavbar/myNavbar";
 import MyCarousel from "./components/myCarousel/myCarousel";
 import TitleMessage from "./components/titleMessage/titleMessage";
 import About from "./pages/about/about";
+import Skills from "./pages/skills/skills";
 
 // css
 import "./App.css";
@@ -25,7 +26,7 @@ const App = () => {
       {/* about me section */}
       <div>
         <Parallax
-          blur={{ min: -1000, max: 1000 }}
+          blur={{ min: -500, max: 500 }}
           bgImage={backgroundImg}
           bgImageAlt=""
           strength={-200}
@@ -38,6 +39,18 @@ const App = () => {
             </Container>
           </div>
         </Parallax>
+      </div>
+
+      {/* skills section */}
+
+      <div>
+        <div>
+          <Container className="container-box rounded">
+            <Fade duration={1000} right>
+              <Skills />
+            </Fade>
+          </Container>
+        </div>
       </div>
     </div>
   );
