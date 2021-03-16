@@ -1,6 +1,7 @@
 import React from "react";
 import Container from "react-bootstrap/Container";
 import Fade from "react-reveal/Fade";
+import Slide from "react-reveal/Slide";
 import { Parallax } from "react-parallax";
 
 // components
@@ -9,6 +10,7 @@ import MyCarousel from "./components/myCarousel/myCarousel";
 import TitleMessage from "./components/titleMessage/titleMessage";
 import About from "./pages/about/about";
 import Skills from "./pages/skills/skills";
+import Experience from "./pages/experience/experience";
 
 // css
 import "./App.css";
@@ -41,14 +43,26 @@ const App = () => {
         </Parallax>
       </div>
 
+      <hr />
       {/* skills section */}
-
       <div>
         <div>
           <Container className="container-box rounded">
-            <Fade duration={1000} right>
+            <Slide bottom duration={1000}>
               <Skills />
-            </Fade>
+            </Slide>
+          </Container>
+        </div>
+      </div>
+
+      <hr />
+      {/* experience section */}
+      <div>
+        <div>
+          <Container className="container-box rounded">
+            <Slide bottom duration={1000}>
+              <Experience />
+            </Slide>
           </Container>
         </div>
       </div>
