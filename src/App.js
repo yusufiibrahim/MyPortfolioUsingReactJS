@@ -11,6 +11,7 @@ import TitleMessage from "./components/titleMessage/titleMessage";
 import About from "./pages/about/about";
 import Skills from "./pages/skills/skills";
 import Experience from "./pages/experience/experience";
+import ProjectTimeline from "./components/projectsTimeline/projectsTimeline";
 
 // css
 import "./App.css";
@@ -43,25 +44,37 @@ const App = () => {
         </Parallax>
       </div>
 
-      <hr />
       {/* skills section */}
       <div>
         <div>
           <Container className="container-box rounded">
             <Slide bottom duration={1000}>
+              <hr />
               <Skills />
             </Slide>
           </Container>
         </div>
       </div>
 
-      <hr />
       {/* experience section */}
       <div>
         <div>
           <Container className="container-box rounded">
-            <Slide bottom duration={1000}>
+            <Fade duration={1000}>
+              <hr />
               <Experience />
+            </Fade>
+          </Container>
+        </div>
+      </div>
+
+      {/* Projects Section */}
+      <div>
+        <div>
+          <Container className="container-box rounded">
+            <Slide bottom duration={1000}>
+              <hr />
+              <ProjectTimeline />
             </Slide>
           </Container>
         </div>

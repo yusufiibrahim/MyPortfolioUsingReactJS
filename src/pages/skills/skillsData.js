@@ -60,6 +60,13 @@ export const skillsData = {
       skillName: "React JS",
     },
     {
+      link: "https://nextjs.org/",
+      imgAltText: "Next JS",
+      imgSrc:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png",
+      skillName: "Next JS",
+    },
+    {
       link: "https://reacttraining.com/react-router/",
       imgAltText: "React Router",
       imgSrc: LOGO_REACT_ROUTER,
