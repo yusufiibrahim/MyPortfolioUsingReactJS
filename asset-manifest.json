@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/MyPortfolioUsingReactJS/static/css/main.bff10b17.chunk.css",
-    "main.js": "/MyPortfolioUsingReactJS/static/js/main.6130ed91.chunk.js",
-    "main.js.map": "/MyPortfolioUsingReactJS/static/js/main.6130ed91.chunk.js.map",
+    "main.css": "/MyPortfolioUsingReactJS/static/css/main.94d70fd1.chunk.css",
+    "main.js": "/MyPortfolioUsingReactJS/static/js/main.7729bc58.chunk.js",
+    "main.js.map": "/MyPortfolioUsingReactJS/static/js/main.7729bc58.chunk.js.map",
     "runtime-main.js": "/MyPortfolioUsingReactJS/static/js/runtime-main.b342aee6.js",
     "runtime-main.js.map": "/MyPortfolioUsingReactJS/static/js/runtime-main.b342aee6.js.map",
     "static/js/2.25d3dfdb.chunk.js": "/MyPortfolioUsingReactJS/static/js/2.25d3dfdb.chunk.js",
     "static/js/2.25d3dfdb.chunk.js.map": "/MyPortfolioUsingReactJS/static/js/2.25d3dfdb.chunk.js.map",
     "index.html": "/MyPortfolioUsingReactJS/index.html",
-    "static/css/main.bff10b17.chunk.css.map": "/MyPortfolioUsingReactJS/static/css/main.bff10b17.chunk.css.map",
+    "static/css/main.94d70fd1.chunk.css.map": "/MyPortfolioUsingReactJS/static/css/main.94d70fd1.chunk.css.map",
     "static/js/2.25d3dfdb.chunk.js.LICENSE.txt": "/MyPortfolioUsingReactJS/static/js/2.25d3dfdb.chunk.js.LICENSE.txt",
     "static/media/MySQL-Logo.6e42b2a0.png": "/MyPortfolioUsingReactJS/static/media/MySQL-Logo.6e42b2a0.png",
     "static/media/contact.css": "/MyPortfolioUsingReactJS/static/media/background.48c0b661.webp",
@@ -29,15 +29,15 @@
     "static/media/markplus-logo.7da78c6e.png": "/MyPortfolioUsingReactJS/static/media/markplus-logo.7da78c6e.png",
     "static/media/material-ui-1.fd510ed8.svg": "/MyPortfolioUsingReactJS/static/media/material-ui-1.fd510ed8.svg",
     "static/media/mssql.18f84630.svg": "/MyPortfolioUsingReactJS/static/media/mssql.18f84630.svg",
-    "static/media/php.5cb43e85.svg": "/MyPortfolioUsingReactJS/static/media/php.5cb43e85.svg",
-    "static/media/react-bootstrap.534ba574.svg": "/MyPortfolioUsingReactJS/static/media/react-bootstrap.534ba574.svg",
+    "static/media/php.43e62673.svg": "/MyPortfolioUsingReactJS/static/media/php.43e62673.svg",
+    "static/media/react-bootstrap.1c7d4dd1.svg": "/MyPortfolioUsingReactJS/static/media/react-bootstrap.1c7d4dd1.svg",
     "static/media/react-router.a87b7227.svg": "/MyPortfolioUsingReactJS/static/media/react-router.a87b7227.svg",
     "static/media/react.add74742.svg": "/MyPortfolioUsingReactJS/static/media/react.add74742.svg",
     "static/media/sass-1.8aa78a83.svg": "/MyPortfolioUsingReactJS/static/media/sass-1.8aa78a83.svg",
     "static/media/slide1.14619b04.webp": "/MyPortfolioUsingReactJS/static/media/slide1.14619b04.webp",
     "static/media/slide2.d58e7971.webp": "/MyPortfolioUsingReactJS/static/media/slide2.d58e7971.webp",
     "static/media/slide3.ea32b5ab.webp": "/MyPortfolioUsingReactJS/static/media/slide3.ea32b5ab.webp",
-    "static/media/styled-components.2e00d138.svg": "/MyPortfolioUsingReactJS/static/media/styled-components.2e00d138.svg",
+    "static/media/styled-components.a5fa325c.svg": "/MyPortfolioUsingReactJS/static/media/styled-components.a5fa325c.svg",
     "static/media/todo-list.25d321f5.png": "/MyPortfolioUsingReactJS/static/media/todo-list.25d321f5.png",
     "static/media/windows.7cf6e764.png": "/MyPortfolioUsingReactJS/static/media/windows.7cf6e764.png",
     "static/media/yusuf.2bc6f6ce.jpg": "/MyPortfolioUsingReactJS/static/media/yusuf.2bc6f6ce.jpg"
@@ -45,7 +45,7 @@
   "entrypoints": [
     "static/js/runtime-main.b342aee6.js",
     "static/js/2.25d3dfdb.chunk.js",
-    "static/css/main.bff10b17.chunk.css",
-    "static/js/main.6130ed91.chunk.js"
+    "static/css/main.94d70fd1.chunk.css",
+    "static/js/main.7729bc58.chunk.js"
   ]
 }
