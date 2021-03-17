@@ -277,6 +277,17 @@ const projectsTimeline = () => {
                           <li>
                             <span className="p-2">
                               <Image
+                                src={LOGO_BOOTSTRAP4}
+                                alt="BOOTSTRAP4"
+                                rounded
+                                className="image-style m-1"
+                              ></Image>{" "}
+                              BOOTSTRAP4
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image
                                 src={LOGO_REACT}
                                 alt="React"
                                 rounded
@@ -316,6 +327,7 @@ const projectsTimeline = () => {
             </div>
           </ImageEvent>
 
+          {/* COACHMARK PROFILE SETTINGS PAGE */}
           <ImageEvent
             date="25/01/2021"
             className="text-center"
@@ -387,6 +399,17 @@ const projectsTimeline = () => {
                                 className="image-style m-1"
                               ></Image>{" "}
                               CSS3
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={LOGO_BOOTSTRAP4}
+                                alt="BOOTSTRAP4"
+                                rounded
+                                className="image-style m-1"
+                              ></Image>{" "}
+                              BOOTSTRAP4
                             </span>
                           </li>
                           <li>
